@@ -16,6 +16,8 @@ This project uses localstorage and Day.js to create a planner for the 9am - 5pm 
 
 ## Link
 
+https://northgoddard.github.io/Work-Day-Planner/
+
 ## Creator
 
 - North Goddard (https://github.com/northgoddard)
